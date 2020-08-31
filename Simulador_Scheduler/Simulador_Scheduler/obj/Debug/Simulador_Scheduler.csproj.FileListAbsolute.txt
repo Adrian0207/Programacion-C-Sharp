@@ -1,0 +1,5 @@
+C:\Users\Usuario_Bios\Documents\Visual Studio 2012\Projects\Simulador_Scheduler\Simulador_Scheduler\obj\Debug\Simulador_Scheduler.csprojResolveAssemblyReference.cache
+C:\Users\Usuario_Bios\Documents\Visual Studio 2012\Projects\Simulador_Scheduler\Simulador_Scheduler\bin\Debug\Simulador_Scheduler.exe
+C:\Users\Usuario_Bios\Documents\Visual Studio 2012\Projects\Simulador_Scheduler\Simulador_Scheduler\bin\Debug\Simulador_Scheduler.pdb
+C:\Users\Usuario_Bios\Documents\Visual Studio 2012\Projects\Simulador_Scheduler\Simulador_Scheduler\obj\Debug\Simulador_Scheduler.exe
+C:\Users\Usuario_Bios\Documents\Visual Studio 2012\Projects\Simulador_Scheduler\Simulador_Scheduler\obj\Debug\Simulador_Scheduler.pdb

@@ -1,0 +1,5 @@
+c:\users\usuario_bios\documents\visual studio 2012\Projects\Cadena_PuntoFlotante\Cadena_PuntoFlotante\bin\Debug\Cadena_PuntoFlotante.exe
+c:\users\usuario_bios\documents\visual studio 2012\Projects\Cadena_PuntoFlotante\Cadena_PuntoFlotante\bin\Debug\Cadena_PuntoFlotante.pdb
+c:\users\usuario_bios\documents\visual studio 2012\Projects\Cadena_PuntoFlotante\Cadena_PuntoFlotante\obj\Debug\Cadena_PuntoFlotante.csprojResolveAssemblyReference.cache
+c:\users\usuario_bios\documents\visual studio 2012\Projects\Cadena_PuntoFlotante\Cadena_PuntoFlotante\obj\Debug\Cadena_PuntoFlotante.exe
+c:\users\usuario_bios\documents\visual studio 2012\Projects\Cadena_PuntoFlotante\Cadena_PuntoFlotante\obj\Debug\Cadena_PuntoFlotante.pdb

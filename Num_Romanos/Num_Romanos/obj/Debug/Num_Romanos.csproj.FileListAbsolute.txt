@@ -1,0 +1,6 @@
+C:\Users\USER\Documents\PUCE\3er Nivel\Estructura de Datos II\Num_Romanos\Num_Romanos\bin\Debug\Num_Romanos.exe.config
+C:\Users\USER\Documents\PUCE\3er Nivel\Estructura de Datos II\Num_Romanos\Num_Romanos\obj\Debug\Num_Romanos.csprojResolveAssemblyReference.cache
+C:\Users\USER\Documents\PUCE\3er Nivel\Estructura de Datos II\Num_Romanos\Num_Romanos\bin\Debug\Num_Romanos.exe
+C:\Users\USER\Documents\PUCE\3er Nivel\Estructura de Datos II\Num_Romanos\Num_Romanos\bin\Debug\Num_Romanos.pdb
+C:\Users\USER\Documents\PUCE\3er Nivel\Estructura de Datos II\Num_Romanos\Num_Romanos\obj\Debug\Num_Romanos.exe
+C:\Users\USER\Documents\PUCE\3er Nivel\Estructura de Datos II\Num_Romanos\Num_Romanos\obj\Debug\Num_Romanos.pdb

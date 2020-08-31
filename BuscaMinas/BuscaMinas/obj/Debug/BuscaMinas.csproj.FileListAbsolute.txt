@@ -1,0 +1,5 @@
+c:\users\usuario_bios\documents\visual studio 2012\Projects\BuscaMinas\BuscaMinas\obj\Debug\BuscaMinas.csprojResolveAssemblyReference.cache
+c:\users\usuario_bios\documents\visual studio 2012\Projects\BuscaMinas\BuscaMinas\bin\Debug\BuscaMinas.exe
+c:\users\usuario_bios\documents\visual studio 2012\Projects\BuscaMinas\BuscaMinas\bin\Debug\BuscaMinas.pdb
+c:\users\usuario_bios\documents\visual studio 2012\Projects\BuscaMinas\BuscaMinas\obj\Debug\BuscaMinas.exe
+c:\users\usuario_bios\documents\visual studio 2012\Projects\BuscaMinas\BuscaMinas\obj\Debug\BuscaMinas.pdb

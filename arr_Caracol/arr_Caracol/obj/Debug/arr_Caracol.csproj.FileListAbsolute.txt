@@ -1,0 +1,11 @@
+c:\users\usuario_bios\documents\visual studio 2012\Projects\arr_Caracol\arr_Caracol\bin\Debug\arr_Caracol.exe
+c:\users\usuario_bios\documents\visual studio 2012\Projects\arr_Caracol\arr_Caracol\bin\Debug\arr_Caracol.pdb
+c:\users\usuario_bios\documents\visual studio 2012\Projects\arr_Caracol\arr_Caracol\obj\Debug\arr_Caracol.csprojResolveAssemblyReference.cache
+c:\users\usuario_bios\documents\visual studio 2012\Projects\arr_Caracol\arr_Caracol\obj\Debug\arr_Caracol.exe
+c:\users\usuario_bios\documents\visual studio 2012\Projects\arr_Caracol\arr_Caracol\obj\Debug\arr_Caracol.pdb
+C:\Users\evere\Desktop\PrograC\arr_Caracol\arr_Caracol\bin\Debug\arr_Caracol.exe
+C:\Users\evere\Desktop\PrograC\arr_Caracol\arr_Caracol\bin\Debug\arr_Caracol.pdb
+C:\Users\evere\Desktop\PrograC\arr_Caracol\arr_Caracol\obj\Debug\arr_Caracol.csprojAssemblyReference.cache
+C:\Users\evere\Desktop\PrograC\arr_Caracol\arr_Caracol\obj\Debug\arr_Caracol.csproj.CoreCompileInputs.cache
+C:\Users\evere\Desktop\PrograC\arr_Caracol\arr_Caracol\obj\Debug\arr_Caracol.exe
+C:\Users\evere\Desktop\PrograC\arr_Caracol\arr_Caracol\obj\Debug\arr_Caracol.pdb

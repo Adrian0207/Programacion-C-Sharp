@@ -1,0 +1,5 @@
+C:\Users\Usuario_Bios\Documents\Visual Studio 2012\Projects\NodoCola\NodoCola\bin\Debug\NodoCola.exe
+C:\Users\Usuario_Bios\Documents\Visual Studio 2012\Projects\NodoCola\NodoCola\bin\Debug\NodoCola.pdb
+C:\Users\Usuario_Bios\Documents\Visual Studio 2012\Projects\NodoCola\NodoCola\obj\Debug\NodoCola.csprojResolveAssemblyReference.cache
+C:\Users\Usuario_Bios\Documents\Visual Studio 2012\Projects\NodoCola\NodoCola\obj\Debug\NodoCola.exe
+C:\Users\Usuario_Bios\Documents\Visual Studio 2012\Projects\NodoCola\NodoCola\obj\Debug\NodoCola.pdb

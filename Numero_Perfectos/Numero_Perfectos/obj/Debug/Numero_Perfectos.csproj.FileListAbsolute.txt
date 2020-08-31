@@ -1,0 +1,5 @@
+c:\users\usuario_bios\documents\visual studio 2012\Projects\Numero_Perfectos\Numero_Perfectos\bin\Debug\Numero_Perfectos.exe
+c:\users\usuario_bios\documents\visual studio 2012\Projects\Numero_Perfectos\Numero_Perfectos\bin\Debug\Numero_Perfectos.pdb
+c:\users\usuario_bios\documents\visual studio 2012\Projects\Numero_Perfectos\Numero_Perfectos\obj\Debug\Numero_Perfectos.csprojResolveAssemblyReference.cache
+c:\users\usuario_bios\documents\visual studio 2012\Projects\Numero_Perfectos\Numero_Perfectos\obj\Debug\Numero_Perfectos.exe
+c:\users\usuario_bios\documents\visual studio 2012\Projects\Numero_Perfectos\Numero_Perfectos\obj\Debug\Numero_Perfectos.pdb

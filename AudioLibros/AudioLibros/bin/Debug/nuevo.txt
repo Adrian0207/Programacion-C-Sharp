@@ -1,0 +1,35 @@
+Capitulo 4.
+
+En la Colina.
+
+Esa fría mañana de enero pude darme cuenta de varias particularidades: pese al frío, el sol brillaba, los pastos bailaban
+al son del viento, los goriones cantaban, el rocio bañaba
+las flores,Etecétera.
+
+Viendolo en retrospectiva, quisiera volver a esos tiempos.
+
+
+case Colores.Beige_Met1:
+                    Console.WriteLine(StringEnum.GetStringValue(Colores.Beige_Met1));
+                    break;
+                case Colores.Blu:
+                    Console.WriteLine(StringEnum.GetStringValue(Colores.Blu));
+                    break;
+                case Colores.Blue:
+                    Console.WriteLine(StringEnum.GetStringValue(Colores.Blue));
+                    break;
+                case Colores.Blue_Met:
+                    Console.WriteLine(StringEnum.GetStringValue(Colores.Blue_Met));
+                    break;
+                case Colores.Blue_Met1:
+                    Console.WriteLine(StringEnum.GetStringValue(Colores.Blue_Met1));
+                    break;
+                case Colores.Blue_Met2:
+                    Console.WriteLine(StringEnum.GetStringValue(Colores.Blue_Met2));
+                    break;
+                case Colores.Blue_Mica:
+                    Console.WriteLine(StringEnum.GetStringValue(Colores.Blue_Mica));
+                    break;
+                case Colores.Blue_Mica_Met:
+                    Console.WriteLine(StringEnum.GetStringValue(Colores.Blue_Mica_Met));
+                    break;

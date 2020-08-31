@@ -1,0 +1,5 @@
+c:\users\usuario_bios\documents\visual studio 2012\Projects\ArregloDeAleatorios\ArregloDeAleatorios\bin\Debug\ArregloDeAleatorios.exe
+c:\users\usuario_bios\documents\visual studio 2012\Projects\ArregloDeAleatorios\ArregloDeAleatorios\bin\Debug\ArregloDeAleatorios.pdb
+c:\users\usuario_bios\documents\visual studio 2012\Projects\ArregloDeAleatorios\ArregloDeAleatorios\obj\Debug\ArregloDeAleatorios.csprojResolveAssemblyReference.cache
+c:\users\usuario_bios\documents\visual studio 2012\Projects\ArregloDeAleatorios\ArregloDeAleatorios\obj\Debug\ArregloDeAleatorios.exe
+c:\users\usuario_bios\documents\visual studio 2012\Projects\ArregloDeAleatorios\ArregloDeAleatorios\obj\Debug\ArregloDeAleatorios.pdb

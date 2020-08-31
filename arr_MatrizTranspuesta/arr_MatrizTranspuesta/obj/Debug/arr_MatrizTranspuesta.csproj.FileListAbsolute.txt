@@ -1,0 +1,5 @@
+c:\users\usuario_bios\documents\visual studio 2012\Projects\arr_MatrizTranspuesta\arr_MatrizTranspuesta\bin\Debug\arr_MatrizTranspuesta.exe
+c:\users\usuario_bios\documents\visual studio 2012\Projects\arr_MatrizTranspuesta\arr_MatrizTranspuesta\bin\Debug\arr_MatrizTranspuesta.pdb
+c:\users\usuario_bios\documents\visual studio 2012\Projects\arr_MatrizTranspuesta\arr_MatrizTranspuesta\obj\Debug\arr_MatrizTranspuesta.csprojResolveAssemblyReference.cache
+c:\users\usuario_bios\documents\visual studio 2012\Projects\arr_MatrizTranspuesta\arr_MatrizTranspuesta\obj\Debug\arr_MatrizTranspuesta.exe
+c:\users\usuario_bios\documents\visual studio 2012\Projects\arr_MatrizTranspuesta\arr_MatrizTranspuesta\obj\Debug\arr_MatrizTranspuesta.pdb

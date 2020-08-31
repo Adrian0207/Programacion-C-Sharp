@@ -1,0 +1,10 @@
+C:\Users\Usuario_Bios\Documents\Visual Studio 2012\Projects\BusquedaBinaria\BusquedaBinaria\obj\Debug\BusquedaBinaria.csprojResolveAssemblyReference.cache
+C:\Users\Usuario_Bios\Documents\Visual Studio 2012\Projects\BusquedaBinaria\BusquedaBinaria\bin\Debug\BusquedaBinaria.exe
+C:\Users\Usuario_Bios\Documents\Visual Studio 2012\Projects\BusquedaBinaria\BusquedaBinaria\bin\Debug\BusquedaBinaria.pdb
+C:\Users\Usuario_Bios\Documents\Visual Studio 2012\Projects\BusquedaBinaria\BusquedaBinaria\obj\Debug\BusquedaBinaria.exe
+C:\Users\Usuario_Bios\Documents\Visual Studio 2012\Projects\BusquedaBinaria\BusquedaBinaria\obj\Debug\BusquedaBinaria.pdb
+E:\Deberes\Estructuras\Estrcuturas II\BusquedaBinaria\BusquedaBinaria\obj\Debug\BusquedaBinaria.exe
+E:\Deberes\Estructuras\Estrcuturas II\BusquedaBinaria\BusquedaBinaria\obj\Debug\BusquedaBinaria.pdb
+E:\Deberes\Estructuras\Estrcuturas II\BusquedaBinaria\BusquedaBinaria\bin\Debug\BusquedaBinaria.exe
+E:\Deberes\Estructuras\Estrcuturas II\BusquedaBinaria\BusquedaBinaria\bin\Debug\BusquedaBinaria.pdb
+E:\Deberes\Estructuras\Estrcuturas II\BusquedaBinaria\BusquedaBinaria\obj\Debug\BusquedaBinaria.csprojResolveAssemblyReference.cache

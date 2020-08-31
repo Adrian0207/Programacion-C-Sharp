@@ -1,0 +1,10 @@
+C:\Users\Usuario_Bios\Documents\Visual Studio 2012\Projects\Tournament_Sort\Tournament_Sort\bin\Debug\Tournament_Sort.exe
+C:\Users\Usuario_Bios\Documents\Visual Studio 2012\Projects\Tournament_Sort\Tournament_Sort\bin\Debug\Tournament_Sort.pdb
+C:\Users\Usuario_Bios\Documents\Visual Studio 2012\Projects\Tournament_Sort\Tournament_Sort\obj\Debug\Tournament_Sort.csprojResolveAssemblyReference.cache
+C:\Users\Usuario_Bios\Documents\Visual Studio 2012\Projects\Tournament_Sort\Tournament_Sort\obj\Debug\Tournament_Sort.exe
+C:\Users\Usuario_Bios\Documents\Visual Studio 2012\Projects\Tournament_Sort\Tournament_Sort\obj\Debug\Tournament_Sort.pdb
+E:\Deberes\Estrucuras\Estrcuturas II\Tournament_Sort\Tournament_Sort\obj\Debug\Tournament_Sort.exe
+E:\Deberes\Estrucuras\Estrcuturas II\Tournament_Sort\Tournament_Sort\obj\Debug\Tournament_Sort.pdb
+E:\Deberes\Estrucuras\Estrcuturas II\Tournament_Sort\Tournament_Sort\bin\Debug\Tournament_Sort.exe
+E:\Deberes\Estrucuras\Estrcuturas II\Tournament_Sort\Tournament_Sort\bin\Debug\Tournament_Sort.pdb
+E:\Deberes\Estrucuras\Estrcuturas II\Tournament_Sort\Tournament_Sort\obj\Debug\Tournament_Sort.csprojResolveAssemblyReference.cache

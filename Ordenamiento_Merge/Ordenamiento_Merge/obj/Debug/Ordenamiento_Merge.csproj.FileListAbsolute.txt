@@ -1,0 +1,10 @@
+C:\Users\Usuario_Bios\Documents\Visual Studio 2012\Projects\Ordenamiento_Merge\Ordenamiento_Merge\bin\Debug\Ordenamiento_Merge.exe
+C:\Users\Usuario_Bios\Documents\Visual Studio 2012\Projects\Ordenamiento_Merge\Ordenamiento_Merge\bin\Debug\Ordenamiento_Merge.pdb
+C:\Users\Usuario_Bios\Documents\Visual Studio 2012\Projects\Ordenamiento_Merge\Ordenamiento_Merge\obj\Debug\Ordenamiento_Merge.csprojResolveAssemblyReference.cache
+C:\Users\Usuario_Bios\Documents\Visual Studio 2012\Projects\Ordenamiento_Merge\Ordenamiento_Merge\obj\Debug\Ordenamiento_Merge.exe
+C:\Users\Usuario_Bios\Documents\Visual Studio 2012\Projects\Ordenamiento_Merge\Ordenamiento_Merge\obj\Debug\Ordenamiento_Merge.pdb
+E:\Deberes\Estructuras\Estrcuturas II\Ordenamiento_Merge\Ordenamiento_Merge\obj\Debug\Ordenamiento_Merge.exe
+E:\Deberes\Estructuras\Estrcuturas II\Ordenamiento_Merge\Ordenamiento_Merge\obj\Debug\Ordenamiento_Merge.pdb
+E:\Deberes\Estructuras\Estrcuturas II\Ordenamiento_Merge\Ordenamiento_Merge\bin\Debug\Ordenamiento_Merge.exe
+E:\Deberes\Estructuras\Estrcuturas II\Ordenamiento_Merge\Ordenamiento_Merge\bin\Debug\Ordenamiento_Merge.pdb
+E:\Deberes\Estructuras\Estrcuturas II\Ordenamiento_Merge\Ordenamiento_Merge\obj\Debug\Ordenamiento_Merge.csprojResolveAssemblyReference.cache

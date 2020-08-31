@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cadena_PuntoFlotante", "Cadena_PuntoFlotante\Cadena_PuntoFlotante.csproj", "{AFC9B77F-66CB-4EC3-89B5-F94F4F6D1442}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AFC9B77F-66CB-4EC3-89B5-F94F4F6D1442}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AFC9B77F-66CB-4EC3-89B5-F94F4F6D1442}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AFC9B77F-66CB-4EC3-89B5-F94F4F6D1442}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AFC9B77F-66CB-4EC3-89B5-F94F4F6D1442}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

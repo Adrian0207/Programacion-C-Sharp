@@ -1,0 +1,5 @@
+C:\Users\Usuario_Bios\Documents\Visual Studio 2012\Projects\BlackJack\BlackJack\obj\Debug\BlackJack.csprojResolveAssemblyReference.cache
+C:\Users\Usuario_Bios\Documents\Visual Studio 2012\Projects\BlackJack\BlackJack\bin\Debug\BlackJack.exe
+C:\Users\Usuario_Bios\Documents\Visual Studio 2012\Projects\BlackJack\BlackJack\bin\Debug\BlackJack.pdb
+C:\Users\Usuario_Bios\Documents\Visual Studio 2012\Projects\BlackJack\BlackJack\obj\Debug\BlackJack.exe
+C:\Users\Usuario_Bios\Documents\Visual Studio 2012\Projects\BlackJack\BlackJack\obj\Debug\BlackJack.pdb

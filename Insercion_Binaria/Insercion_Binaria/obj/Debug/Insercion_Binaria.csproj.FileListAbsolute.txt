@@ -1,0 +1,5 @@
+C:\Users\Usuario_Bios\Documents\Visual Studio 2012\Projects\Insercion_Binaria\Insercion_Binaria\bin\Debug\Insercion_Binaria.exe
+C:\Users\Usuario_Bios\Documents\Visual Studio 2012\Projects\Insercion_Binaria\Insercion_Binaria\bin\Debug\Insercion_Binaria.pdb
+C:\Users\Usuario_Bios\Documents\Visual Studio 2012\Projects\Insercion_Binaria\Insercion_Binaria\obj\Debug\Insercion_Binaria.csprojResolveAssemblyReference.cache
+C:\Users\Usuario_Bios\Documents\Visual Studio 2012\Projects\Insercion_Binaria\Insercion_Binaria\obj\Debug\Insercion_Binaria.exe
+C:\Users\Usuario_Bios\Documents\Visual Studio 2012\Projects\Insercion_Binaria\Insercion_Binaria\obj\Debug\Insercion_Binaria.pdb

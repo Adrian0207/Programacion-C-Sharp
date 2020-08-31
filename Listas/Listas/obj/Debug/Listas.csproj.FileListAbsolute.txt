@@ -1,0 +1,5 @@
+C:\Users\Usuario_Bios\Documents\Visual Studio 2012\Projects\Listas\Listas\bin\Debug\Listas.exe
+C:\Users\Usuario_Bios\Documents\Visual Studio 2012\Projects\Listas\Listas\bin\Debug\Listas.pdb
+C:\Users\Usuario_Bios\Documents\Visual Studio 2012\Projects\Listas\Listas\obj\Debug\Listas.csprojResolveAssemblyReference.cache
+C:\Users\Usuario_Bios\Documents\Visual Studio 2012\Projects\Listas\Listas\obj\Debug\Listas.exe
+C:\Users\Usuario_Bios\Documents\Visual Studio 2012\Projects\Listas\Listas\obj\Debug\Listas.pdb

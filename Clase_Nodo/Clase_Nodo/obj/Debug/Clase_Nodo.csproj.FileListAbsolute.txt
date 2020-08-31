@@ -1,0 +1,5 @@
+C:\Users\Usuario_Bios\Documents\Visual Studio 2012\Projects\Clase_Nodo\Clase_Nodo\obj\Debug\Clase_Nodo.csprojResolveAssemblyReference.cache
+C:\Users\Usuario_Bios\Documents\Visual Studio 2012\Projects\Clase_Nodo\Clase_Nodo\bin\Debug\Clase_Nodo.exe
+C:\Users\Usuario_Bios\Documents\Visual Studio 2012\Projects\Clase_Nodo\Clase_Nodo\bin\Debug\Clase_Nodo.pdb
+C:\Users\Usuario_Bios\Documents\Visual Studio 2012\Projects\Clase_Nodo\Clase_Nodo\obj\Debug\Clase_Nodo.exe
+C:\Users\Usuario_Bios\Documents\Visual Studio 2012\Projects\Clase_Nodo\Clase_Nodo\obj\Debug\Clase_Nodo.pdb

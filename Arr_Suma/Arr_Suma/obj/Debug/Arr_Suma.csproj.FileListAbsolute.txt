@@ -1,0 +1,5 @@
+c:\users\usuario_bios\documents\visual studio 2012\Projects\Arr_Suma\Arr_Suma\bin\Debug\Arr_Suma.exe
+c:\users\usuario_bios\documents\visual studio 2012\Projects\Arr_Suma\Arr_Suma\bin\Debug\Arr_Suma.pdb
+c:\users\usuario_bios\documents\visual studio 2012\Projects\Arr_Suma\Arr_Suma\obj\Debug\Arr_Suma.csprojResolveAssemblyReference.cache
+c:\users\usuario_bios\documents\visual studio 2012\Projects\Arr_Suma\Arr_Suma\obj\Debug\Arr_Suma.exe
+c:\users\usuario_bios\documents\visual studio 2012\Projects\Arr_Suma\Arr_Suma\obj\Debug\Arr_Suma.pdb

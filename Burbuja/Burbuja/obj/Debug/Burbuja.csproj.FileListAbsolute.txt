@@ -1,0 +1,5 @@
+C:\Users\Usuario_Bios\Documents\Visual Studio 2012\Projects\Burbuja\Burbuja\bin\Debug\Burbuja.exe
+C:\Users\Usuario_Bios\Documents\Visual Studio 2012\Projects\Burbuja\Burbuja\bin\Debug\Burbuja.pdb
+C:\Users\Usuario_Bios\Documents\Visual Studio 2012\Projects\Burbuja\Burbuja\obj\Debug\Burbuja.csprojResolveAssemblyReference.cache
+C:\Users\Usuario_Bios\Documents\Visual Studio 2012\Projects\Burbuja\Burbuja\obj\Debug\Burbuja.exe
+C:\Users\Usuario_Bios\Documents\Visual Studio 2012\Projects\Burbuja\Burbuja\obj\Debug\Burbuja.pdb

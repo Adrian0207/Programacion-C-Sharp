@@ -1,0 +1,10 @@
+C:\Users\Usuario_Bios\Documents\Visual Studio 2012\Projects\Dijkstra\Dijkstra\obj\Debug\Dijkstra.csprojResolveAssemblyReference.cache
+C:\Users\Usuario_Bios\Documents\Visual Studio 2012\Projects\Dijkstra\Dijkstra\bin\Debug\Dijkstra.exe
+C:\Users\Usuario_Bios\Documents\Visual Studio 2012\Projects\Dijkstra\Dijkstra\bin\Debug\Dijkstra.pdb
+C:\Users\Usuario_Bios\Documents\Visual Studio 2012\Projects\Dijkstra\Dijkstra\obj\Debug\Dijkstra.exe
+C:\Users\Usuario_Bios\Documents\Visual Studio 2012\Projects\Dijkstra\Dijkstra\obj\Debug\Dijkstra.pdb
+E:\Deberes\Estrucuras\Estrcuturas II\Dijkstra\Dijkstra\obj\Debug\Dijkstra.exe
+E:\Deberes\Estrucuras\Estrcuturas II\Dijkstra\Dijkstra\obj\Debug\Dijkstra.pdb
+E:\Deberes\Estrucuras\Estrcuturas II\Dijkstra\Dijkstra\bin\Debug\Dijkstra.exe
+E:\Deberes\Estrucuras\Estrcuturas II\Dijkstra\Dijkstra\bin\Debug\Dijkstra.pdb
+E:\Deberes\Estrucuras\Estrcuturas II\Dijkstra\Dijkstra\obj\Debug\Dijkstra.csprojResolveAssemblyReference.cache

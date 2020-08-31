@@ -1,0 +1,12 @@
+C:\Users\estudiante\Desktop\StackNodo\StackNodo\bin\Debug\StackNodo.exe.config
+C:\Users\estudiante\Desktop\StackNodo\StackNodo\bin\Debug\StackNodo.exe
+C:\Users\estudiante\Desktop\StackNodo\StackNodo\bin\Debug\StackNodo.pdb
+C:\Users\estudiante\Desktop\StackNodo\StackNodo\obj\Debug\StackNodo.csprojResolveAssemblyReference.cache
+C:\Users\estudiante\Desktop\StackNodo\StackNodo\obj\Debug\StackNodo.exe
+C:\Users\estudiante\Desktop\StackNodo\StackNodo\obj\Debug\StackNodo.pdb
+C:\Users\Usuario_Bios\Documents\Visual Studio 2012\Projects\StackNodo\StackNodo\bin\Debug\StackNodo.exe.config
+C:\Users\Usuario_Bios\Documents\Visual Studio 2012\Projects\StackNodo\StackNodo\obj\Debug\StackNodo.exe
+C:\Users\Usuario_Bios\Documents\Visual Studio 2012\Projects\StackNodo\StackNodo\obj\Debug\StackNodo.pdb
+C:\Users\Usuario_Bios\Documents\Visual Studio 2012\Projects\StackNodo\StackNodo\bin\Debug\StackNodo.exe
+C:\Users\Usuario_Bios\Documents\Visual Studio 2012\Projects\StackNodo\StackNodo\bin\Debug\StackNodo.pdb
+C:\Users\Usuario_Bios\Documents\Visual Studio 2012\Projects\StackNodo\StackNodo\obj\Debug\StackNodo.csprojResolveAssemblyReference.cache

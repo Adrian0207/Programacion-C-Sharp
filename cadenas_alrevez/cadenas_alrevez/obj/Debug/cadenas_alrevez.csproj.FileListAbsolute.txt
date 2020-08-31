@@ -1,0 +1,5 @@
+c:\users\usuario_bios\documents\visual studio 2012\Projects\cadenas_alrevez\cadenas_alrevez\bin\Debug\cadenas_alrevez.exe
+c:\users\usuario_bios\documents\visual studio 2012\Projects\cadenas_alrevez\cadenas_alrevez\bin\Debug\cadenas_alrevez.pdb
+c:\users\usuario_bios\documents\visual studio 2012\Projects\cadenas_alrevez\cadenas_alrevez\obj\Debug\cadenas_alrevez.csprojResolveAssemblyReference.cache
+c:\users\usuario_bios\documents\visual studio 2012\Projects\cadenas_alrevez\cadenas_alrevez\obj\Debug\cadenas_alrevez.exe
+c:\users\usuario_bios\documents\visual studio 2012\Projects\cadenas_alrevez\cadenas_alrevez\obj\Debug\cadenas_alrevez.pdb

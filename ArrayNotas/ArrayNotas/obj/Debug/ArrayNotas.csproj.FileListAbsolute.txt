@@ -1,0 +1,5 @@
+c:\users\usuario_bios\documents\visual studio 2012\Projects\ArrayNotas\ArrayNotas\bin\Debug\ArrayNotas.exe
+c:\users\usuario_bios\documents\visual studio 2012\Projects\ArrayNotas\ArrayNotas\bin\Debug\ArrayNotas.pdb
+c:\users\usuario_bios\documents\visual studio 2012\Projects\ArrayNotas\ArrayNotas\obj\Debug\ArrayNotas.csprojResolveAssemblyReference.cache
+c:\users\usuario_bios\documents\visual studio 2012\Projects\ArrayNotas\ArrayNotas\obj\Debug\ArrayNotas.exe
+c:\users\usuario_bios\documents\visual studio 2012\Projects\ArrayNotas\ArrayNotas\obj\Debug\ArrayNotas.pdb

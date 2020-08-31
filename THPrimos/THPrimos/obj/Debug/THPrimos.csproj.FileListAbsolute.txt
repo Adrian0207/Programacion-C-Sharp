@@ -1,0 +1,5 @@
+C:\Users\Usuario_Bios\Documents\Visual Studio 2012\Projects\THPrimos\THPrimos\bin\Debug\THPrimos.exe
+C:\Users\Usuario_Bios\Documents\Visual Studio 2012\Projects\THPrimos\THPrimos\bin\Debug\THPrimos.pdb
+C:\Users\Usuario_Bios\Documents\Visual Studio 2012\Projects\THPrimos\THPrimos\obj\Debug\THPrimos.csprojResolveAssemblyReference.cache
+C:\Users\Usuario_Bios\Documents\Visual Studio 2012\Projects\THPrimos\THPrimos\obj\Debug\THPrimos.exe
+C:\Users\Usuario_Bios\Documents\Visual Studio 2012\Projects\THPrimos\THPrimos\obj\Debug\THPrimos.pdb

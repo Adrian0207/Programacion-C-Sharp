@@ -1,0 +1,5 @@
+c:\users\usuario_bios\documents\visual studio 2012\Projects\Arr_Votos\Arr_Votos\obj\Debug\Arr_Votos.csprojResolveAssemblyReference.cache
+c:\users\usuario_bios\documents\visual studio 2012\Projects\Arr_Votos\Arr_Votos\bin\Debug\Arr_Votos.exe
+c:\users\usuario_bios\documents\visual studio 2012\Projects\Arr_Votos\Arr_Votos\bin\Debug\Arr_Votos.pdb
+c:\users\usuario_bios\documents\visual studio 2012\Projects\Arr_Votos\Arr_Votos\obj\Debug\Arr_Votos.exe
+c:\users\usuario_bios\documents\visual studio 2012\Projects\Arr_Votos\Arr_Votos\obj\Debug\Arr_Votos.pdb

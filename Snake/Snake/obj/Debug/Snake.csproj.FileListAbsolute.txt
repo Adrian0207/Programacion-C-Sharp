@@ -1,0 +1,13 @@
+C:\Users\Usuario_Bios\Documents\Visual Studio 2012\Projects\Snake\Snake\bin\Debug\Snake.exe
+C:\Users\Usuario_Bios\Documents\Visual Studio 2012\Projects\Snake\Snake\bin\Debug\Snake.pdb
+C:\Users\Usuario_Bios\Documents\Visual Studio 2012\Projects\Snake\Snake\obj\Debug\Snake.csprojResolveAssemblyReference.cache
+C:\Users\Usuario_Bios\Documents\Visual Studio 2012\Projects\Snake\Snake\obj\Debug\Snake.Properties.Resources.resources
+C:\Users\Usuario_Bios\Documents\Visual Studio 2012\Projects\Snake\Snake\obj\Debug\Snake.csproj.GenerateResource.Cache
+C:\Users\Usuario_Bios\Documents\Visual Studio 2012\Projects\Snake\Snake\obj\Debug\Snake.exe
+C:\Users\Usuario_Bios\Documents\Visual Studio 2012\Projects\Snake\Snake\obj\Debug\Snake.pdb
+C:\Users\Usuario_Bios\Documents\Visual Studio 2012\Projects\Snake\Snake\obj\Debug\Snake.Snake.resources
+C:\Users\Usuario_Bios\Documents\Visual Studio 2012\Projects\Snake\Snake\obj\Debug\Interop.WMPLib.dll
+C:\Users\Usuario_Bios\Documents\Visual Studio 2012\Projects\Snake\Snake\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Usuario_Bios\Documents\Visual Studio 2012\Projects\Snake\Snake\obj\Debug\Snake.csproj.ResolveComReference.cache
+C:\Users\Usuario_Bios\Documents\Visual Studio 2012\Projects\Snake\Snake\bin\Debug\Interop.WMPLib.dll
+C:\Users\Usuario_Bios\Documents\Visual Studio 2012\Projects\Snake\Snake\bin\Debug\AxInterop.WMPLib.dll

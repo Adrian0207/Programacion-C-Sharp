@@ -1,0 +1,12 @@
+C:\Users\Usuario_Bios\Documents\Visual Studio 2012\Projects\HelloWorld\HelloWorld\bin\Debug\HelloWorld.exe
+C:\Users\Usuario_Bios\Documents\Visual Studio 2012\Projects\HelloWorld\HelloWorld\bin\Debug\HelloWorld.pdb
+C:\Users\Usuario_Bios\Documents\Visual Studio 2012\Projects\HelloWorld\HelloWorld\obj\Debug\HelloWorld.csprojResolveAssemblyReference.cache
+C:\Users\Usuario_Bios\Documents\Visual Studio 2012\Projects\HelloWorld\HelloWorld\obj\Debug\HelloWorld.exe
+C:\Users\Usuario_Bios\Documents\Visual Studio 2012\Projects\HelloWorld\HelloWorld\obj\Debug\HelloWorld.pdb
+E:\Deberes\Estrucuras\Estrcuturas II\HelloWorld\HelloWorld\obj\Debug\HelloWorld.exe
+E:\Deberes\Estrucuras\Estrcuturas II\HelloWorld\HelloWorld\obj\Debug\HelloWorld.pdb
+E:\Deberes\Estrucuras\Estrcuturas II\HelloWorld\HelloWorld\bin\Debug\HelloWorld.exe
+E:\Deberes\Estrucuras\Estrcuturas II\HelloWorld\HelloWorld\bin\Debug\HelloWorld.pdb
+E:\Deberes\Estrucuras\Estrcuturas II\HelloWorld\HelloWorld\obj\Debug\HelloWorld.csprojResolveAssemblyReference.cache
+E:\Deberes\Estructuras\Estrcuturas II\HelloWorld\HelloWorld\obj\Debug\HelloWorld.exe
+E:\Deberes\Estructuras\Estrcuturas II\HelloWorld\HelloWorld\obj\Debug\HelloWorld.pdb

@@ -1,0 +1,5 @@
+c:\users\usuario_bios\documents\visual studio 2012\Projects\arr_Moda\arr_Moda\bin\Debug\arr_Moda.exe
+c:\users\usuario_bios\documents\visual studio 2012\Projects\arr_Moda\arr_Moda\bin\Debug\arr_Moda.pdb
+c:\users\usuario_bios\documents\visual studio 2012\Projects\arr_Moda\arr_Moda\obj\Debug\arr_Moda.csprojResolveAssemblyReference.cache
+c:\users\usuario_bios\documents\visual studio 2012\Projects\arr_Moda\arr_Moda\obj\Debug\arr_Moda.exe
+c:\users\usuario_bios\documents\visual studio 2012\Projects\arr_Moda\arr_Moda\obj\Debug\arr_Moda.pdb

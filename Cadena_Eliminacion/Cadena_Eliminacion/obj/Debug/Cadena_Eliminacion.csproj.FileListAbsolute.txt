@@ -1,0 +1,4 @@
+c:\users\usuario_bios\documents\visual studio 2012\Projects\Cadena_Eliminacion\Cadena_Eliminacion\bin\Debug\Cadena_Eliminacion.exe
+c:\users\usuario_bios\documents\visual studio 2012\Projects\Cadena_Eliminacion\Cadena_Eliminacion\bin\Debug\Cadena_Eliminacion.pdb
+c:\users\usuario_bios\documents\visual studio 2012\Projects\Cadena_Eliminacion\Cadena_Eliminacion\obj\Debug\Cadena_Eliminacion.exe
+c:\users\usuario_bios\documents\visual studio 2012\Projects\Cadena_Eliminacion\Cadena_Eliminacion\obj\Debug\Cadena_Eliminacion.pdb

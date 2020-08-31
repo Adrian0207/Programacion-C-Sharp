@@ -1,0 +1,4 @@
+c:\users\usuario_bios\documents\visual studio 2012\Projects\Arr_SumaMatriz\Arr_SumaMatriz\bin\Debug\Arr_SumaMatriz.exe
+c:\users\usuario_bios\documents\visual studio 2012\Projects\Arr_SumaMatriz\Arr_SumaMatriz\bin\Debug\Arr_SumaMatriz.pdb
+c:\users\usuario_bios\documents\visual studio 2012\Projects\Arr_SumaMatriz\Arr_SumaMatriz\obj\Debug\Arr_SumaMatriz.exe
+c:\users\usuario_bios\documents\visual studio 2012\Projects\Arr_SumaMatriz\Arr_SumaMatriz\obj\Debug\Arr_SumaMatriz.pdb

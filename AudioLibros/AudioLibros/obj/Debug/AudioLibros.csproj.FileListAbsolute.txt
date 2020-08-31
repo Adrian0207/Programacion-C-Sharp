@@ -1,0 +1,5 @@
+c:\users\usuario_bios\documents\visual studio 2012\Projects\AudioLibros\AudioLibros\obj\Debug\AudioLibros.csprojResolveAssemblyReference.cache
+c:\users\usuario_bios\documents\visual studio 2012\Projects\AudioLibros\AudioLibros\bin\Debug\AudioLibros.exe
+c:\users\usuario_bios\documents\visual studio 2012\Projects\AudioLibros\AudioLibros\bin\Debug\AudioLibros.pdb
+c:\users\usuario_bios\documents\visual studio 2012\Projects\AudioLibros\AudioLibros\obj\Debug\AudioLibros.exe
+c:\users\usuario_bios\documents\visual studio 2012\Projects\AudioLibros\AudioLibros\obj\Debug\AudioLibros.pdb

@@ -1,0 +1,6 @@
+c:\users\jalarcon\documents\visual studio 2017\Projects\NumerosCasa\NumerosCasa\bin\Debug\NumerosCasa.exe.config
+c:\users\jalarcon\documents\visual studio 2017\Projects\NumerosCasa\NumerosCasa\bin\Debug\NumerosCasa.exe
+c:\users\jalarcon\documents\visual studio 2017\Projects\NumerosCasa\NumerosCasa\bin\Debug\NumerosCasa.pdb
+c:\users\jalarcon\documents\visual studio 2017\Projects\NumerosCasa\NumerosCasa\obj\Debug\NumerosCasa.csprojResolveAssemblyReference.cache
+c:\users\jalarcon\documents\visual studio 2017\Projects\NumerosCasa\NumerosCasa\obj\Debug\NumerosCasa.exe
+c:\users\jalarcon\documents\visual studio 2017\Projects\NumerosCasa\NumerosCasa\obj\Debug\NumerosCasa.pdb

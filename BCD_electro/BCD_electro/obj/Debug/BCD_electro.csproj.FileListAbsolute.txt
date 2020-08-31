@@ -1,0 +1,12 @@
+c:\users\estudiante\documents\visual studio 2012\Projects\BCD_electro\BCD_electro\bin\Debug\BCD_electro.exe.config
+c:\users\estudiante\documents\visual studio 2012\Projects\BCD_electro\BCD_electro\bin\Debug\BCD_electro.exe
+c:\users\estudiante\documents\visual studio 2012\Projects\BCD_electro\BCD_electro\bin\Debug\BCD_electro.pdb
+c:\users\estudiante\documents\visual studio 2012\Projects\BCD_electro\BCD_electro\obj\Debug\BCD_electro.csprojResolveAssemblyReference.cache
+c:\users\estudiante\documents\visual studio 2012\Projects\BCD_electro\BCD_electro\obj\Debug\BCD_electro.exe
+c:\users\estudiante\documents\visual studio 2012\Projects\BCD_electro\BCD_electro\obj\Debug\BCD_electro.pdb
+C:\Users\Usuario_Bios\Documents\Visual Studio 2012\Projects\BCD_electro\BCD_electro\bin\Debug\BCD_electro.exe.config
+C:\Users\Usuario_Bios\Documents\Visual Studio 2012\Projects\BCD_electro\BCD_electro\obj\Debug\BCD_electro.exe
+C:\Users\Usuario_Bios\Documents\Visual Studio 2012\Projects\BCD_electro\BCD_electro\obj\Debug\BCD_electro.pdb
+C:\Users\Usuario_Bios\Documents\Visual Studio 2012\Projects\BCD_electro\BCD_electro\bin\Debug\BCD_electro.exe
+C:\Users\Usuario_Bios\Documents\Visual Studio 2012\Projects\BCD_electro\BCD_electro\bin\Debug\BCD_electro.pdb
+C:\Users\Usuario_Bios\Documents\Visual Studio 2012\Projects\BCD_electro\BCD_electro\obj\Debug\BCD_electro.csprojResolveAssemblyReference.cache

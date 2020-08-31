@@ -1,0 +1,10 @@
+C:\Users\Usuario_Bios\Documents\Visual Studio 2012\Projects\App_DVD\App_DVD\bin\Debug\App_DVD.exe
+C:\Users\Usuario_Bios\Documents\Visual Studio 2012\Projects\App_DVD\App_DVD\bin\Debug\App_DVD.pdb
+C:\Users\Usuario_Bios\Documents\Visual Studio 2012\Projects\App_DVD\App_DVD\obj\Debug\App_DVD.csprojResolveAssemblyReference.cache
+C:\Users\Usuario_Bios\Documents\Visual Studio 2012\Projects\App_DVD\App_DVD\obj\Debug\App_DVD.exe
+C:\Users\Usuario_Bios\Documents\Visual Studio 2012\Projects\App_DVD\App_DVD\obj\Debug\App_DVD.pdb
+E:\Deberes\Estrucuras\Estructuras I\App_DVD\App_DVD\bin\Debug\App_DVD.exe
+E:\Deberes\Estrucuras\Estructuras I\App_DVD\App_DVD\bin\Debug\App_DVD.pdb
+E:\Deberes\Estrucuras\Estructuras I\App_DVD\App_DVD\obj\Debug\App_DVD.csprojResolveAssemblyReference.cache
+E:\Deberes\Estrucuras\Estructuras I\App_DVD\App_DVD\obj\Debug\App_DVD.exe
+E:\Deberes\Estrucuras\Estructuras I\App_DVD\App_DVD\obj\Debug\App_DVD.pdb

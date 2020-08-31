@@ -1,0 +1,5 @@
+c:\users\usuario_bios\documents\visual studio 2012\Projects\Bender\Bender\bin\Debug\Bender.exe
+c:\users\usuario_bios\documents\visual studio 2012\Projects\Bender\Bender\bin\Debug\Bender.pdb
+c:\users\usuario_bios\documents\visual studio 2012\Projects\Bender\Bender\obj\Debug\Bender.csprojResolveAssemblyReference.cache
+c:\users\usuario_bios\documents\visual studio 2012\Projects\Bender\Bender\obj\Debug\Bender.exe
+c:\users\usuario_bios\documents\visual studio 2012\Projects\Bender\Bender\obj\Debug\Bender.pdb

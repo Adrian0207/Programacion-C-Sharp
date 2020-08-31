@@ -1,0 +1,4 @@
+c:\users\usuario_bios\documents\visual studio 2012\Projects\arr_ProductoX\arr_ProductoX\bin\Debug\arr_ProductoX.exe
+c:\users\usuario_bios\documents\visual studio 2012\Projects\arr_ProductoX\arr_ProductoX\bin\Debug\arr_ProductoX.pdb
+c:\users\usuario_bios\documents\visual studio 2012\Projects\arr_ProductoX\arr_ProductoX\obj\Debug\arr_ProductoX.exe
+c:\users\usuario_bios\documents\visual studio 2012\Projects\arr_ProductoX\arr_ProductoX\obj\Debug\arr_ProductoX.pdb

@@ -1,0 +1,4 @@
+c:\users\usuario_bios\documents\visual studio 2012\Projects\Asteriscos\Asteriscos\bin\Debug\Asteriscos.exe
+c:\users\usuario_bios\documents\visual studio 2012\Projects\Asteriscos\Asteriscos\bin\Debug\Asteriscos.pdb
+c:\users\usuario_bios\documents\visual studio 2012\Projects\Asteriscos\Asteriscos\obj\Debug\Asteriscos.exe
+c:\users\usuario_bios\documents\visual studio 2012\Projects\Asteriscos\Asteriscos\obj\Debug\Asteriscos.pdb

@@ -1,0 +1,5 @@
+c:\users\usuario_bios\documents\visual studio 2012\Projects\arr_Serpiente\arr_Serpiente\obj\Debug\arr_Serpiente.csprojResolveAssemblyReference.cache
+c:\users\usuario_bios\documents\visual studio 2012\Projects\arr_Serpiente\arr_Serpiente\bin\Debug\arr_Serpiente.exe
+c:\users\usuario_bios\documents\visual studio 2012\Projects\arr_Serpiente\arr_Serpiente\bin\Debug\arr_Serpiente.pdb
+c:\users\usuario_bios\documents\visual studio 2012\Projects\arr_Serpiente\arr_Serpiente\obj\Debug\arr_Serpiente.exe
+c:\users\usuario_bios\documents\visual studio 2012\Projects\arr_Serpiente\arr_Serpiente\obj\Debug\arr_Serpiente.pdb

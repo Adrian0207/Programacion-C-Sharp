@@ -1,0 +1,5 @@
+C:\Users\Usuario_Bios\Documents\Visual Studio 2012\Projects\CadenasAlternas\CadenasAlternas\bin\Debug\CadenasAlternas.exe
+C:\Users\Usuario_Bios\Documents\Visual Studio 2012\Projects\CadenasAlternas\CadenasAlternas\bin\Debug\CadenasAlternas.pdb
+C:\Users\Usuario_Bios\Documents\Visual Studio 2012\Projects\CadenasAlternas\CadenasAlternas\obj\Debug\CadenasAlternas.csprojResolveAssemblyReference.cache
+C:\Users\Usuario_Bios\Documents\Visual Studio 2012\Projects\CadenasAlternas\CadenasAlternas\obj\Debug\CadenasAlternas.exe
+C:\Users\Usuario_Bios\Documents\Visual Studio 2012\Projects\CadenasAlternas\CadenasAlternas\obj\Debug\CadenasAlternas.pdb

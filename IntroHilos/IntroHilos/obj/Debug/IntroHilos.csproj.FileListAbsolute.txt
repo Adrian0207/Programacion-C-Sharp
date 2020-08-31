@@ -1,0 +1,8 @@
+C:\Users\Usuario_Bios\Documents\Visual Studio 2012\Projects\IntroHilos\IntroHilos\bin\Debug\IntroHilos.exe
+C:\Users\Usuario_Bios\Documents\Visual Studio 2012\Projects\IntroHilos\IntroHilos\bin\Debug\IntroHilos.pdb
+C:\Users\Usuario_Bios\Documents\Visual Studio 2012\Projects\IntroHilos\IntroHilos\obj\Debug\IntroHilos.csprojResolveAssemblyReference.cache
+C:\Users\Usuario_Bios\Documents\Visual Studio 2012\Projects\IntroHilos\IntroHilos\obj\Debug\IntroHilos.Form1.resources
+C:\Users\Usuario_Bios\Documents\Visual Studio 2012\Projects\IntroHilos\IntroHilos\obj\Debug\IntroHilos.Properties.Resources.resources
+C:\Users\Usuario_Bios\Documents\Visual Studio 2012\Projects\IntroHilos\IntroHilos\obj\Debug\IntroHilos.csproj.GenerateResource.Cache
+C:\Users\Usuario_Bios\Documents\Visual Studio 2012\Projects\IntroHilos\IntroHilos\obj\Debug\IntroHilos.exe
+C:\Users\Usuario_Bios\Documents\Visual Studio 2012\Projects\IntroHilos\IntroHilos\obj\Debug\IntroHilos.pdb

@@ -1,0 +1,5 @@
+c:\users\usuario_bios\documents\visual studio 2012\Projects\Funciones_Basicas_Libreria_Math\Funciones_Basicas_Libreria_Math\bin\Debug\Funciones_Basicas_Libreria_Math.exe
+c:\users\usuario_bios\documents\visual studio 2012\Projects\Funciones_Basicas_Libreria_Math\Funciones_Basicas_Libreria_Math\bin\Debug\Funciones_Basicas_Libreria_Math.pdb
+c:\users\usuario_bios\documents\visual studio 2012\Projects\Funciones_Basicas_Libreria_Math\Funciones_Basicas_Libreria_Math\obj\Debug\Funciones_Basicas_Libreria_Math.csprojResolveAssemblyReference.cache
+c:\users\usuario_bios\documents\visual studio 2012\Projects\Funciones_Basicas_Libreria_Math\Funciones_Basicas_Libreria_Math\obj\Debug\Funciones_Basicas_Libreria_Math.exe
+c:\users\usuario_bios\documents\visual studio 2012\Projects\Funciones_Basicas_Libreria_Math\Funciones_Basicas_Libreria_Math\obj\Debug\Funciones_Basicas_Libreria_Math.pdb

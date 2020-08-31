@@ -1,0 +1,5 @@
+C:\Users\Usuario_Bios\Documents\Visual Studio 2012\Projects\HauntedGraveyard\HauntedGraveyard\bin\Debug\HauntedGraveyard.exe
+C:\Users\Usuario_Bios\Documents\Visual Studio 2012\Projects\HauntedGraveyard\HauntedGraveyard\bin\Debug\HauntedGraveyard.pdb
+C:\Users\Usuario_Bios\Documents\Visual Studio 2012\Projects\HauntedGraveyard\HauntedGraveyard\obj\Debug\HauntedGraveyard.csprojResolveAssemblyReference.cache
+C:\Users\Usuario_Bios\Documents\Visual Studio 2012\Projects\HauntedGraveyard\HauntedGraveyard\obj\Debug\HauntedGraveyard.exe
+C:\Users\Usuario_Bios\Documents\Visual Studio 2012\Projects\HauntedGraveyard\HauntedGraveyard\obj\Debug\HauntedGraveyard.pdb

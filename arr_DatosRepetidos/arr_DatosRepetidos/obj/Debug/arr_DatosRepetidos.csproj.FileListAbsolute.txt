@@ -1,0 +1,5 @@
+c:\users\usuario_bios\documents\visual studio 2012\Projects\arr_DatosRepetidos\arr_DatosRepetidos\bin\Debug\arr_DatosRepetidos.exe
+c:\users\usuario_bios\documents\visual studio 2012\Projects\arr_DatosRepetidos\arr_DatosRepetidos\bin\Debug\arr_DatosRepetidos.pdb
+c:\users\usuario_bios\documents\visual studio 2012\Projects\arr_DatosRepetidos\arr_DatosRepetidos\obj\Debug\arr_DatosRepetidos.csprojResolveAssemblyReference.cache
+c:\users\usuario_bios\documents\visual studio 2012\Projects\arr_DatosRepetidos\arr_DatosRepetidos\obj\Debug\arr_DatosRepetidos.exe
+c:\users\usuario_bios\documents\visual studio 2012\Projects\arr_DatosRepetidos\arr_DatosRepetidos\obj\Debug\arr_DatosRepetidos.pdb

@@ -1,0 +1,5 @@
+C:\Users\Usuario_Bios\Documents\Visual Studio 2012\Projects\StackPalindromo\StackPalindromo\bin\Debug\StackPalindromo.exe
+C:\Users\Usuario_Bios\Documents\Visual Studio 2012\Projects\StackPalindromo\StackPalindromo\bin\Debug\StackPalindromo.pdb
+C:\Users\Usuario_Bios\Documents\Visual Studio 2012\Projects\StackPalindromo\StackPalindromo\obj\Debug\StackPalindromo.csprojResolveAssemblyReference.cache
+C:\Users\Usuario_Bios\Documents\Visual Studio 2012\Projects\StackPalindromo\StackPalindromo\obj\Debug\StackPalindromo.exe
+C:\Users\Usuario_Bios\Documents\Visual Studio 2012\Projects\StackPalindromo\StackPalindromo\obj\Debug\StackPalindromo.pdb

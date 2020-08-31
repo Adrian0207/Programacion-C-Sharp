@@ -1,0 +1,5 @@
+c:\users\usuario_bios\documents\visual studio 2012\Projects\cadena_Puntuada\cadena_Puntuada\obj\Debug\cadena_Puntuada.csprojResolveAssemblyReference.cache
+c:\users\usuario_bios\documents\visual studio 2012\Projects\cadena_Puntuada\cadena_Puntuada\bin\Debug\cadena_Puntuada.exe
+c:\users\usuario_bios\documents\visual studio 2012\Projects\cadena_Puntuada\cadena_Puntuada\bin\Debug\cadena_Puntuada.pdb
+c:\users\usuario_bios\documents\visual studio 2012\Projects\cadena_Puntuada\cadena_Puntuada\obj\Debug\cadena_Puntuada.exe
+c:\users\usuario_bios\documents\visual studio 2012\Projects\cadena_Puntuada\cadena_Puntuada\obj\Debug\cadena_Puntuada.pdb

@@ -1,0 +1,5 @@
+c:\users\usuario_bios\documents\visual studio 2012\Projects\numero_intermedio\numero_intermedio\bin\Debug\numero_intermedio.exe
+c:\users\usuario_bios\documents\visual studio 2012\Projects\numero_intermedio\numero_intermedio\bin\Debug\numero_intermedio.pdb
+c:\users\usuario_bios\documents\visual studio 2012\Projects\numero_intermedio\numero_intermedio\obj\Debug\numero_intermedio.csprojResolveAssemblyReference.cache
+c:\users\usuario_bios\documents\visual studio 2012\Projects\numero_intermedio\numero_intermedio\obj\Debug\numero_intermedio.exe
+c:\users\usuario_bios\documents\visual studio 2012\Projects\numero_intermedio\numero_intermedio\obj\Debug\numero_intermedio.pdb
